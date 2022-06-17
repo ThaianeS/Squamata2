@@ -1,0 +1,12 @@
+x=30
+print(x)
+x=x+4
+y=x+9
+z=y+x
+print(y)
+soma=x+y
+print (soma)
+print ("o valor da soma é", soma)
+elev = z**3
+print (elev)
+print ("o valor de Z elevado ao cubo é:", elev
